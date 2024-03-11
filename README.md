@@ -1,3 +1,9 @@
+# GitHub User Finder
+
+Track user name, bio, number of repositories, followers and followings
+
+----
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
